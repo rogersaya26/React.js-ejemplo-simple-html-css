@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Gameplay;
+  src: url(./components/Fonts/Gameplay.ttf);
+}
+
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Gameplay;
+  letter-spacing: 2px;
+  font-weight: 100;
+}
